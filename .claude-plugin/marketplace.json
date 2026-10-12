@@ -1,0 +1,18 @@
+{
+  "name": "adhedge",
+  "owner": {
+    "name": "AdHedge",
+    "url": "https://adhedge.io"
+  },
+  "metadata": {
+    "description": "AdHedge Install Trust for Claude Code: the MCP server."
+  },
+  "plugins": [
+    {
+      "name": "adhedge-install-trust",
+      "source": "./plugins/adhedge-install-trust",
+      "description": "Verify Android installs with Play Integrity and act on the result: set up an app, explain verdicts, reconcile a network report, build evidence, turn on blocking.",
+      "version": "0.1.0"
+    }
+  ]
+}

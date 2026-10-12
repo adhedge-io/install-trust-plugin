@@ -1,0 +1,17 @@
+{
+  "name": "adhedge-install-trust",
+  "version": "0.1.0",
+  "description": "Verify Android installs with Play Integrity and act on the result: set up an app, explain verdicts, reconcile a network report, build evidence, turn on blocking.",
+  "author": {
+    "name": "AdHedge",
+    "url": "https://adhedge.io"
+  },
+  "homepage": "https://adhedge.io/docs",
+  "repository": "https://github.com/adhedge-io/install-trust-plugin",
+  "keywords": [
+    "android",
+    "play-integrity",
+    "install-verification",
+    "attribution"
+  ]
+}

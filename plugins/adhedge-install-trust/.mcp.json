@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adhedge": {
+      "type": "http",
+      "url": "https://api.adhedge.io/mcp"
+    }
+  }
+}
